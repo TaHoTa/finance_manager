@@ -1,0 +1,34 @@
+body {
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+
+.form-label{
+    width: 28%;    
+    font-size: 1.2em;
+    margin-bottom: 0px; 
+}
+
+p {
+    font-size: 1.2em;
+    margin: 0px;
+}
+
+#save_level{
+    margin-right: 15px;
+}
+
+#parcentage{
+    margin: 0 15px;
+}
+
+#error_positive{
+    display: none;
+}
+#error_number{
+    display: none;
+}
+#error_large{
+    display: none;
+}
+
